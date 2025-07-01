@@ -1,3 +1,3 @@
-![](assets/Julia_prog_language.svg)
+![](assets/julia_logo.svg)
 # julia-examples
 Julia
